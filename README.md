@@ -1,16 +1,19 @@
-### Hi there 👋
+ 
+<h1 align="center">Hi there 👋, I'm Thibaud !</h1>
+<h3 align="center">Machine Learning and Computer Vision Engineer. I Help Companies and 26k+ People Build ML Pipelines and Computer Vision Applications.</h3>
 
-<!--
-**ThibaudPiccinali/ThibaudPiccinali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## My profile
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **Deep Learning, AI, Computer Vision, Robotics...**
+- 📫 How to reach me: thibaud.piccinali@centrale.centralelille.fr
+
+## Languages and Tools:
+
+<a href="https://github.com/ThibaudPiccinali/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThibaudPiccinali&show_icons=true" />
+</a>
+<a href="https://github.com/ThibaudPiccinali/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThibaudPiccinali&layout=compact" />
+</a>
